@@ -1,0 +1,210 @@
+@charset "UTF-8";
+
+
+
+body{
+  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+
+
+li{
+  list-style:none;
+}
+
+header{
+  height:75px;
+  width:1479px;
+  background-color:#FFFFFF;
+  box-shadow: 0px 3px #000000;
+  opacity: 0.6;
+  margin:0;
+  position:fixed;
+  z-index: 10;
+}
+
+.header-logo{
+  float:left;
+  padding:25px 0px 26px 250px;
+}
+
+.header-list li{
+  float:left;
+    padding-right:85px;
+}
+
+.header-list{
+  float:right;
+  font-size:18px;
+  padding-top:27.05px;
+  margin-right:249px;
+}
+
+
+.top-contents h1{
+  padding-left: 250px;
+  font-size:40px;
+  padding-top:99.5px;
+  padding-bottom:100px;
+}
+
+.top-word1{
+  padding-left: 250px;
+  font-size:24px;
+  margin-bottom:100px;
+}
+
+.top-word2{
+  padding-left: 250px;
+  font-size:24px;
+  margin-bottom:100px;
+}
+
+.top-word3{
+  padding-left: 250px;
+  font-size:24px;
+  margin-bottom:100px;
+}
+
+.contents-container1{
+  float:left;
+  background-color: #FCF6F2;
+  background-size:cover;
+  width:1480px;
+  height:1440px;
+
+}
+
+.title {
+  text-align:center;
+  font-size:40px;
+  font-weight:bold;
+  padding-top:100px;
+}
+
+
+.contents-item p{
+  display:inline-block;
+  width:450px;
+  height:300px;
+  vertical-align:top;
+  position:relative;
+  left:250px;
+  padding-right:100px;
+  font-size:20px;
+}
+
+.contents-container2{
+  float:left;
+  width:1480px;
+  height:791px;
+}
+
+.img-box{
+  display:inline-block;
+  position:relative;
+  margin-top:100px;
+}
+
+.inline-word {
+  position:absolute;
+  top:100px;
+  left:629px;
+  width:450px;
+  height:450px;
+  font-size:20px;
+  background-color:#FFFFFF;
+  border:1px solid #707070;
+  opacity: 0.51;
+  padding:85px 75px 65px 75px;
+}
+
+.contents-container3{
+  width:1480px;
+  height:559px;
+}
+
+.hot{
+  margin:96.5px 250px 100.5px 250px;
+  border-bottom:1px solid #777777;
+  width:1000px;
+
+}
+
+.hot p{
+  display:block;
+  width:979.5px;
+  font-size:16px;
+  line-height: 17px;
+  vertical-align: middle;
+  border-top:1px solid #777777;
+  padding-left:20px;
+  padding-top:10px;
+}
+
+.day{
+  font-weight:bold;
+}
+
+.new{
+  display:inline-block;
+  width:84px;
+  height:21px;
+  padding-top:4px;
+  text-align: center;
+  border:1px solid #AD2727;
+  color:#AD2727;
+  margin-left:14px;
+  margin-right:37px;
+  font-weight: bold;
+}
+
+
+
+.contents-container4{
+  width:1195px;
+  height:188px;
+  background-color:#8E8E8E;
+  color:#FFFFFF;
+  padding:100px 35px 100px 251px;
+  margin-top:100px;
+}
+
+.list-container{
+  display:block;
+  float:left;
+  padding-right:55px;
+}
+
+.list-container h3{
+  width:300px;
+  font-size:16px;
+  border-bottom:1px solid #FFFFFF;
+}
+
+.list-container ul{
+  display:inline;
+  text-align:left;
+  font-size:16px;
+}
+
+.footer-container{
+  width:1480px;
+  height:60px;
+  background-color: #6A6A6A;
+  border:1px solid #707070;
+  float:left;
+}
+
+.footer-logo{
+  padding-left:251px;
+  padding-top:18px;
+}
+
+.copylight{
+  float:right;
+  color:#FFFFFF;
+  font-size:12px;
+  padding-top:18px;
+  padding-right:249px;
+}
